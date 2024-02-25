@@ -1,8 +1,8 @@
 import { galleryItems } from './gallery-items';
 //import SimpleLightbox from 'simplelightbox';
-import SimpleLightbox from "simplelightbox";
+ import SimpleLightbox from "simplelightbox";
 //import SimpleLightbox from '../node_modules/simplelightbox/src/simple-lightbox.js';
-import '/simplelightbox/dist/simple-lightbox.min.css';
+import 'simplelightbox/dist/simple-lightbox.min.css';
 // Add imports above this line
 
 // import simpleLightbox from 'simplelightbox';
